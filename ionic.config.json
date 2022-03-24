@@ -1,0 +1,7 @@
+{
+  "name": "uxdesign",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
